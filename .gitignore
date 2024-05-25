@@ -1,0 +1,7 @@
+#Files
+*.exe
+tempCodeRunnerFile.cpp
+
+#Folders
+*.vscode
+*.idea
